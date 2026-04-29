@@ -10,6 +10,8 @@ This repo intends to provide an introduction to:
 - Provide a guide for Fine-tuning and Quantization a SQL Agent
 - Provide a guide for Building an Mutli-Agent (MoE) Agentic AI solution
 
+> **IMPORTANT:** Do not actually use any of these models for production. There are already a **TON** of models that do this exact thing. (Check out HuggingFace) Definitely, use those models over these.
+
 ## Hardware Prerequisites
 
 The SLM training and Fine-tuning projects will require a GPU (and of the H100 or better variety). There is simply no getting around that. Unfortunately, it's not going to possible to do this live in the session.
