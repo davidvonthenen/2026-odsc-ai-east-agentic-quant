@@ -1,6 +1,6 @@
-# ODSC AI East Workshop - Less Compute, More Impact: How Model Quantization Fuels the Next Wave of Agentic AI
+# ODSC AI East Tutorial - Less Compute, More Impact: How Model Quantization Fuels the Next Wave of Agentic AI
 
-Welcome to the landing page for the session `Less Compute, More Impact: How Model Quantization Fuels the Next Wave of Agentic AI` at the `ODSC AI East 2026`.
+Welcome to the landing page for the session `Less Compute, More Impact: How Model Quantization Fuels the Next Wave of Agentic AI` at `ODSC AI East 2026`.
 
 ## What to Expect
 
@@ -28,8 +28,8 @@ If you don't have access to this kind of hardware, you can at least download the
 
 There are 3 separate demo projects:
 
-- [demo/1_Python](./demos/1_Python/README.md)
-- [demo/2_SQL](./demos/2_SQL/README.md)
-- [demo/3_A2A](./demos/3_A2A/README.md)
+- [demo/1_Python](./demo/1_Python/README.md)
+- [demo/2_SQL](./demo/2_SQL/README.md)
+- [demo/3_A2A](./demo/3_A2A/README.md)
 
 The instructions and purpose for each demo is contained within their respective folders.
