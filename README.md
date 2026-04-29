@@ -12,7 +12,7 @@ This repo intends to provide an introduction to:
 
 ## Hardware Prerequisites
 
-The SLM training and Fine-tuning projects will require a GPU (and of the H100 or better variety). There is simply no getting around that.
+The SLM training and Fine-tuning projects will require a GPU (and of the H100 or better variety). There is simply no getting around that. Unfortunately, it's not going to possible to do this live in the session.
 
 If you don't have access to this kind of hardware, you can at least download the pre-built models for inference.
 
