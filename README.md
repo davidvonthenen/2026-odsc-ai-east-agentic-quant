@@ -1,4 +1,4 @@
-# ODSC AI East Tutorial - Less Compute, More Impact: How Model Quantization Fuels the Next Wave of Agentic AI
+# ODSC AI East 2026 (Tutorial) - Less Compute, More Impact: How Model Quantization Fuels the Next Wave of Agentic AI
 
 Welcome to the landing page for the session `Less Compute, More Impact: How Model Quantization Fuels the Next Wave of Agentic AI` at `ODSC AI East 2026`.
 
