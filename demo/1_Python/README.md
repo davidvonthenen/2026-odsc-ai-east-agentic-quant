@@ -2,6 +2,14 @@
 
 This project provides an end-to-end build of a Python Coding Small Language Model (SLM) via fine-tuning and quantization.
 
+> **IMPORTANT:** Do not actually use any of these examples models for production. There are already a **TON** of models that do this exact thing built for production. (Check out HuggingFace) Definitely, use those models over these. Some examples below...
+>
+> Take a look at:
+> [https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct)
+>
+> CPU Quantized:
+> [https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct-GGUF](https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct-GGUF)
+
 ## Prerequisites
 
 - Python 3.12+

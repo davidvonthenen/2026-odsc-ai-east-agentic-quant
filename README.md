@@ -10,7 +10,13 @@ This repo intends to provide an introduction to:
 - Provide a guide for Fine-tuning and Quantization a SQL Agent
 - Provide a guide for Building an Mutli-Agent (MoE) Agentic AI solution
 
-> **IMPORTANT:** Do not actually use any of these models for production. There are already a **TON** of models that do this exact thing. (Check out HuggingFace) Definitely, use those models over these.
+> **IMPORTANT:** Do not actually use any of these examples models for production. There are already a **TON** of models that do this exact thing built for production. (Check out HuggingFace) Definitely, use those models over these. Some examples below...
+>
+> Take a look at:
+> [https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct)
+>
+> CPU Quantized:
+> [https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct-GGUF](https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct-GGUF)
 
 ## Hardware Prerequisites
 
